@@ -2,7 +2,8 @@
     <string name="app_name">OmniStoreInstaller</string>
     <string name="store_installed">OmniStore already installed</string>
     <string name="install_store_button">Install OmniStore</string>
-    <string name="store_welcome">Welcome to the new OmniStore!\n\nYou are just one step away.\nPlease press the button below\nto install the real application.\n\nAfter that you can disable this installer.</string>
+    <string name="store_intro_title">Welcome to the OmniStore!</string>
+    <string name="store_welcome">You are just one step away.\nPlease press the button below\nto install the real application.\n\nAfter that you can disable this installer.</string>
     <string name="dialog_title_network_error">Network Error</string>
     <string name="dialog_message_network_error">Network connection not available.\nPlease make sure you are connected to a network.</string>
     <string name="disable_app_button">Disable Installer</string>
